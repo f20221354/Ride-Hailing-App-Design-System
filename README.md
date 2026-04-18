@@ -1,12 +1,18 @@
+<br />
+
+<div align="center">
+  <h3>🔗 Interactive Prototype</h3>
+  <p>Experience the full user journey of the SwiftRide app below:</p>
+  
+  <a href="https://www.figma.com/proto/C21wxjq8bqtTQAdhDzE19k/Uber-Riding-booking-app?node-id=0-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=0%3A1" target="_blank">
+    <img src="https://img.shields.io/badge/View_Prototype_on_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Prototype">
+  </a>
+
+  <p>
+    <a href="https://www.figma.com/proto/C21wxjq8bqtTQAdhDzE19k/Uber-Riding-booking-app?node-id=0-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=0%3A1" target="_blank">
+      Click here if the button doesn't work
+    </a>
+  </p>
+</div>
+
 <hr />
-<h2>Live Design Prototype</h2>
-
-<iframe 
-  style="border: 1px solid rgba(0, 0, 0, 0.1);" 
-  width="100%" 
-  height="600" 
-  src="https://embed.figma.com/design/C21wxjq8bqtTQAdhDzE19k/Uber-Riding-booking-app?node-id=0-1&embed-host=share" 
-  allowfullscreen>
-</iframe>
-
-<p align="center"><i>Note: If the preview doesn't load, please refresh the page or click the link above.</i></p>
